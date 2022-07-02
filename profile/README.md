@@ -15,10 +15,26 @@ We're a team of distributed volunteers around the world working on all aspects o
 
 ## Features
 
-- Simple and clean user interface
-- Billing Users and Client Dashboard
-- Easy to use
-- Multiple platform
+The application features:
+
+- Charging Stations details and real-time statuses
+- Charging sessions curves in real time
+- Charging stations remote control (Reboot, Clear Cache, Stop Transaction, Unlock Connector)
+- Charging Station Template management: Zero configuration
+- User management
+- Badge management
+- Role management (ABAC)
+- Static Energy Management: Manually limit the charging station
+- Smart Charging with Assets, Fair Sharing, Peak Shaving, Cost Management and Phase Balancing
+- Realtime Asset Management (Building, Battery, Solar Panel)
+- Billing with Stripe
+- Complex Pricing
+- Roaming integration (Gire, Hubject)
+- Refunding (SAP Concur)
+- Simple Statistics + Advanced Analytics (SAP Analytics)
+- Car Connector Management (Get the car's data to optimize the charging session)
+
+## Contact the author [Skbhati199](https://www.linkedin.com/in/sonu-kumar-9810659036/)
 
 
 ## Contributing
