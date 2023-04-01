@@ -27,7 +27,7 @@ The application features:
 
 - **Reservation and scheduling:** The CSMS can allow users to reserve or schedule charging sessions in advance, which can help to ensure that charging stations are available when needed.
 
-- **Remote access: The CSMS can allow station owners or managers to remotely access and manage the charging stations, including the ability to start and stop charging sessions, set pricing, and perform maintenance tasks.
+- **Remote access:** The CSMS can allow station owners or managers to remotely access and manage the charging stations, including the ability to start and stop charging sessions, set pricing, and perform maintenance tasks.
 
 - **Reporting and analytics:** The CSMS can generate reports and analytics on station usage, energy consumption, and revenue, which can be used to optimize operations and improve the user experience.
 
