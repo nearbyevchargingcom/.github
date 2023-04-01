@@ -17,22 +17,23 @@ We're a team of distributed volunteers around the world working on all aspects o
 
 The application features:
 
-- Charging Stations details and real-time statuses
-- Charging sessions curves in real time
-- Charging stations remote control (Reboot, Clear Cache, Stop Transaction, Unlock Connector)
-- Charging Station Template management: Zero configuration
-- User management
-- Badge management
-- Role management (ABAC)
-- Static Energy Management: Manually limit the charging station
-- Smart Charging with Assets, Fair Sharing, Peak Shaving, Cost Management and Phase Balancing
-- Realtime Asset Management (Building, Battery, Solar Panel)
-- Billing with Stripe
-- Complex Pricing
-- Roaming integration (Gire, Hubject)
-- Refunding (SAP Concur)
-- Simple Statistics + Advanced Analytics (SAP Analytics)
-- Car Connector Management (Get the car's data to optimize the charging session)
+- Station monitoring: The CSMS can monitor the status of charging stations in real-time, including information such as the charging power, status, and availability of the station.
+
+- Billing and payment: CSMS can handle billing and payment for charging services, including the ability to accept different payment methods such as credit cards, mobile payments, and membership accounts.
+
+- Reservation and scheduling: The CSMS can allow users to reserve or schedule charging sessions in advance, which can help to ensure that charging stations are available when needed.
+
+- Remote access: The CSMS can allow station owners or managers to remotely access and manage the charging stations, including the ability to start and stop charging sessions, set pricing, and perform maintenance tasks.
+
+- Reporting and analytics: The CSMS can generate reports and analytics on station usage, energy consumption, and revenue, which can be used to optimize operations and improve the user experience.
+
+- Integration with other systems: The CSMS can integrate with other systems such as energy management systems, vehicle management systems, and smart grid systems, to enable more efficient and coordinated management of charging stations.
+
+- User authentication and access control: The CSMS can provide secure user authentication and access control to ensure that only authorized users can access the charging stations and related services.
+
+- Remote firmware updates: The CSMS can remotely update the firmware of the charging stations, which can help to ensure that they are always running the latest software and security patches.
+
+- Customer support: The CSMS can provide customer support services such as troubleshooting, technical support, and help desk services, to ensure that users have a positive experience with the charging stations.
 
 ## Contact the author [Skbhati199](https://www.linkedin.com/in/sonu-kumar-9810659036/)
 
